@@ -1,6 +1,10 @@
 # TinDog Project
 
 
+![Capture2](https://github.com/anarus7/tinder-dog-boostrap-website/assets/117738169/1387e2bb-5111-4916-ac93-98fff10ccfc7)
+![Capture1](https://github.com/anarus7/tinder-dog-boostrap-website/assets/117738169/45f28975-d808-438b-b826-3d29994cdb13)
+
+
 ## SVGs:
 
 Apple Logo:
